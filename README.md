@@ -11,8 +11,7 @@ This is not a standalone theme. It is a [Hugo](https://gohugo.io) theme componen
 ![Screenshot](screenshots/1.png)
 
 ## Usage
-
-1. Add the `hugo-chart` as a submodule to be able to get upstream changes later `git submodule add https://github.com/Shen-Yu/hugo-chart.git themes/hugo-chart`
+1. Add the `hugo-chart` as a submodule to be able to get upstream changes later `git submodule add https://github.com/jiunjiun69/hugo-chart.git themes/hugo-chart`
 2. Add `hugo-chart` as the left-most element of the `theme` list variable in your site's or theme's configuration file `config.yaml` or `config.toml`. Example, with `config.yaml`:
     ```yaml
     theme: ["hugo-chart", "my-theme"]
